@@ -51,7 +51,7 @@ AWS-Azure-GCP-Image-Notes/
 │       ├── AWS-VPC.png
 │       ├── Azure-VNet.png
 │       ├── GCP-VPC.png
-│       └── README.md
+│       └── VPC-VNet-VPC-README.md
 │
 ├── Compute/
 │
